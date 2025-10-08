@@ -19,10 +19,7 @@ int main()
     for(int i=1; i<n; i++){
         ans=min(ans,abs(v[i])); 
     }
-     /*   if(v[0]>0)
-        cout<<v[0]<<endl; 
-        else 
-        cout<<abs(v[0])<<endl; */
+    
         cout<<ans<<endl; 
 
 
