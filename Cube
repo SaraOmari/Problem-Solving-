@@ -10,5 +10,4 @@ while(t--){
     cout<<sqrt(area/6)<<endl; 
 }
 return 0;
-
 }
