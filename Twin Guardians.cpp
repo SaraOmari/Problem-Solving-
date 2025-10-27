@@ -21,8 +21,7 @@ else{
         }}
          int flagb=0; 
     for(int i=2; i*i<=b; i++){
-        if(b%i==0)
-        {
+        if(b%i==0){
             flagb=1;
             break; 
         }
