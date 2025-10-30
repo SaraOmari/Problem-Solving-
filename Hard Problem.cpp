@@ -12,5 +12,6 @@ while(t--){
     long long r=min(e,c);
     long long ans=mn1+mn2+r; 
     cout<<ans<<endl; 
-} return 0;
+} 
+    return 0;
 }
