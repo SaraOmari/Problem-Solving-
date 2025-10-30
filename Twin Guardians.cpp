@@ -17,7 +17,7 @@ else{
         if(a%i==0){
             flag=1;
             break; 
-        }}
+     }}
          int flagb=0; 
     for(int i=2; i*i<=b; i++){
         if(b%i==0){
