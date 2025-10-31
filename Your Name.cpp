@@ -15,6 +15,5 @@ while(t--){
    cout<<"YES\n"; 
    else
    cout<<"NO\n"; 
-}
-    return 0;
+} return 0;
 }
