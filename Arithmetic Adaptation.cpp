@@ -8,7 +8,7 @@ int main() {
     if (b==0||abs(b)> 999) {
         a=-1;
         b=s+1;
- }
+  }
     cout<<a<<" "<<b<< endl;
     return 0;
 }
