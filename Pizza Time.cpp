@@ -10,7 +10,7 @@ int main()
         while(n>2){
             ans+=n/3; 
             n=(n%3)+(n/3); 
-        }
+     }
         cout<<ans<<endl;
     }
     return 0;
