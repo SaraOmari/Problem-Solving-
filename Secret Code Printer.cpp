@@ -8,7 +8,6 @@ cout<<"CPS"<<endl;
     return 0;
 }
 ////or 
-
 #include <iostream>
 using namespace std; 
 int main()
