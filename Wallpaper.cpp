@@ -14,7 +14,7 @@ for(int i=0; i<n; i++)
     sum+=arr[i]/k; 
     else
     sum+=arr[i]/k+1; 
-    
+
 }
 cout<<sum<<endl; 
     return 0;
