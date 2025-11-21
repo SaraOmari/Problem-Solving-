@@ -18,5 +18,6 @@ for(int i=1;i<n; i++)
 res=max(res,a); 
 }
 cout<<res<<endl; 
+ 
     return 0;
 }
