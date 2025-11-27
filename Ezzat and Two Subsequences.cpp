@@ -11,9 +11,9 @@ while(t--){
     int n; cin>>n; 
    long long  arr[n],arr1[1],arr2[n-1]; 
   
-    for(int i=0; i<n; i++){
+    for(int i=0; i<n; i++)
     cin>>arr[i];
-     }
+     
      sort(arr,arr+n,greater<int>()); 
      arr1[0]=arr[0]; 
      double avg=0; 
