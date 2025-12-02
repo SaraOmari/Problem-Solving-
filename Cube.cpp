@@ -8,6 +8,7 @@ while(t--){
     int area; 
     cin>>area; 
     cout<<sqrt(area/6)<<endl; 
+    
 }
 return 0;
 }
