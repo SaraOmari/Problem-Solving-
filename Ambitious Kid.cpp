@@ -13,7 +13,7 @@ int main()
 
     if(v[i]==0){
     cout<<0<<endl; 
-        
+
     return 0; }
    }
     int ans=abs(v[0]); 
