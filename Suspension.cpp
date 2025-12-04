@@ -13,7 +13,6 @@ int main()
        else
        cout<<n<<endl;  
     
-
     }
 
     return 0;
