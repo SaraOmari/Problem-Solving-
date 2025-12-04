@@ -12,7 +12,6 @@ int main()
        cout<<sum<<endl; 
        else
        cout<<n<<endl;  
-    
     }
 
     return 0;
