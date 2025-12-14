@@ -12,7 +12,6 @@ while(t--){
             c++; 
        }
    }
-
     cout<<c<<endl; 
 }
     return 0;
