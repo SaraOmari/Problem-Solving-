@@ -15,6 +15,7 @@ while(t--){
     while(!s.count(k))
     k++; 
     cout<<k<<endl; 
+    
 }
     return 0;
 }
