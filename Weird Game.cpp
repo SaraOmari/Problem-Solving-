@@ -9,5 +9,6 @@ if(n%2==0)
 cout<<"Mahmoud\n"; 
 else
 cout<<"Bashar\n"; 
+    
     return 0;
 }
