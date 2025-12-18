@@ -8,6 +8,5 @@ if(n*2>d)
 cout<<"take it\n"; 
 else
 cout<<"double it\n"; 
-
     return 0;
 }
