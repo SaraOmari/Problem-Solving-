@@ -19,7 +19,6 @@ int main() {
     for (auto &a : freqm) {
         int x=a.first;
         int y=k-x;
-
         if(freqm.find(y)==freqm.end())
             continue;
         if (x < y) {
