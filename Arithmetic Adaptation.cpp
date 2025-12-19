@@ -10,6 +10,6 @@ int main() {
         b=s+1;
   }
     cout<<a<<" "<<b<< endl;
-    
+
     return 0;
 }
