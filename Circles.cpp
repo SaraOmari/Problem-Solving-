@@ -11,5 +11,6 @@ int main()
        double ans=d*d/2.0; 
        cout<<fixed<<setprecision(6)<<ans<<endl; 
     }
+    
     return 0;
 }
