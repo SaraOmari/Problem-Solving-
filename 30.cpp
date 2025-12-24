@@ -17,6 +17,7 @@ if (!c||n%3!=0){
     return 0; 
 }
 sort(s.begin(),s.end(),greater<char>()); 
+    
 cout<<s<<endl; 
     
     return 0;
