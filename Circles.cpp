@@ -12,6 +12,7 @@ int main()
        cout<<fixed<<setprecision(6)<<ans<<endl; 
         
     }
+
     
     return 0;
 }
