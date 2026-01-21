@@ -13,7 +13,6 @@ if(d==0)
 c=1; }
 if (!c||n%3!=0){
     cout<<-1<<endl; 
-
     return 0; 
 }
 sort(s.begin(),s.end(),greater<char>()); 
