@@ -10,7 +10,6 @@ cin>>t;
 while(t--){
     int n; 
     cin>>n; 
-
   vector<int>v(n); 
   for(auto &x:v)
   cin>>x; 
