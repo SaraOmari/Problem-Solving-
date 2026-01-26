@@ -14,6 +14,7 @@ while(t--){
   for(auto &x:v)
   cin>>x; 
   sort(v.rbegin(),v.rend()); 
+    
   cout<<v[0]<<endl; 
 }
     
