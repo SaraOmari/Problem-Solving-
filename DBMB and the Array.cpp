@@ -13,7 +13,7 @@ int main()
         {
             cin>>arr[i]; 
             sum+=arr[i]; 
-            
+        
         }
         if(sum<=s&&(s-sum)%x==0)
         cout<<"yes\n"; 
