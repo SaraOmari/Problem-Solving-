@@ -15,6 +15,5 @@ cout<<"check again\n";
 else
 cout<<"final "<<arr[1]<<endl; 
 
-
     return 0;
 }
