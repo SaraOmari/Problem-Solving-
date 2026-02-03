@@ -14,5 +14,6 @@ if(arr[2]-arr[0]>=10)
 cout<<"check again\n"; 
 else
 cout<<"final "<<arr[1]<<endl; 
+    
     return 0;
 }
