@@ -14,7 +14,7 @@ while(t--){
             flag=1; 
             break; }
         }
-       
+
     if(flag)
     cout<<"yes\n"; 
     else
