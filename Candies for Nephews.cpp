@@ -17,5 +17,4 @@ while(t--){
 }
 
 return 0;
-
 }
