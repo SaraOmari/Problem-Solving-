@@ -15,7 +15,7 @@ while(t--){
     cout<<1<<endl; 
  
 }
-    
+
 return 0;
 
 }
