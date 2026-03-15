@@ -6,7 +6,7 @@ int t; cin>>t;
    string s,a; 
    int m=0;
 while(t--){
-  
+
     cin>>s; 
    if(s.length()>m){
    m=s.length();
