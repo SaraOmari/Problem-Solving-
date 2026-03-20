@@ -1,3 +1,10 @@
+/******************************************************************************
+
+                              Online C++ Compiler.
+               Code, Compile, Run and Debug C++ program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
 
 #include <iostream>
 #include <cmath>
@@ -13,17 +20,15 @@ long long c;
 cin>>c; 
 sort(arr,arr+n); 
 long long ans=0;
-int ind;
+int ind=0;
 for(int i=0; i<n; i++){
-    if(ans<=c){
+    if(ans+arr[i]<=c){
  ans+=arr[i];
- ind=i;}
+ ind++;}
  else
  break; 
     
 }
-cout<< ind<<" "<<c-(ans-arr[ind])<<endl;
-/*else
-cout<<ind<<" "<<ans-c+arr[ind]<<endl;*/
+cout<<ind<<" "<<c-ans<<endl; 
     return 0;
 }
