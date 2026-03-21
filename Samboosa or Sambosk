@@ -1,0 +1,19 @@
+
+#include <iostream>
+#include <cmath>
+#include <algorithm>
+using namespace std;
+int main()
+{
+
+long long  t;cin>>t;
+  string s,ans;
+while(t--){
+
+  cin>>s;
+  ans=s;
+  
+}
+cout<<ans<<endl; 
+    return 0;
+}
