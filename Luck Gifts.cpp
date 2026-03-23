@@ -14,7 +14,7 @@ for(int i=1; i<=n; i++){
     if(o==2)
     c++;
     
-    
-} cout<<c<<endl; 
+} 
+    cout<<c<<endl; 
     return 0;
 }
