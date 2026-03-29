@@ -8,7 +8,6 @@ long long  t;
 cin>>t;
   string s,ans;
 while(t--){
-
   cin>>s;
   ans=s;
   
