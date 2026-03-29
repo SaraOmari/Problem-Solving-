@@ -5,7 +5,8 @@ using namespace std;
 int main()
 {
 
-long long  t;cin>>t;
+long long  t;
+cin>>t;
   string s,ans;
 while(t--){
 
