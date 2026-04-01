@@ -2,7 +2,8 @@
 using namespace std; 
 int main()
 {
-int n; cin>>n; 
+int n;
+    cin>>n; 
 if(n%2==0)
 cout<<"GO GET ANOTHER DATE\n"; 
 else
