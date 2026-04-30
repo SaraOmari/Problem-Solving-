@@ -13,7 +13,6 @@ while(t--){
     cout<<2<<endl; 
     else
     cout<<1<<endl; 
-
 }
 return 0;
 }
