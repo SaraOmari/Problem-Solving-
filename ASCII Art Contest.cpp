@@ -2,7 +2,7 @@
 #include <algorithm>
 using namespace std; 
 int main() {
-    
+
 int g,c,l; 
 cin>>g>>c>>l; 
 int arr[3]; 
