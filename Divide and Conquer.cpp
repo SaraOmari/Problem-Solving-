@@ -11,5 +11,6 @@ while(t--){
     else
     cout<<"no\n"; 
 }
+    
     return 0;
 }
