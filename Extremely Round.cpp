@@ -11,8 +11,7 @@ while(t--){
       for(int j=1; j<=9; j++){
           if(i*j<=n)
           c++;
-      }
-      
+      }  
   }
   cout<<c<<endl; 
 }
