@@ -20,7 +20,6 @@ while(t--){
        else{
            x=arr[i]-a;
            a++;
-
        }
    }
    if(flag)
