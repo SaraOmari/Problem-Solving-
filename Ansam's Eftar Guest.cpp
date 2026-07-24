@@ -19,7 +19,7 @@ for(int i=0; i<n; i++){
  ind++;}
  else
  break; 
-    
+
 }
 cout<<ind<<" "<<c-ans<<endl; 
     return 0;
