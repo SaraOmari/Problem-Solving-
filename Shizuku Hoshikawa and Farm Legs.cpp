@@ -12,6 +12,7 @@ while(t--){
             if (4*i+2*j==n) 
             c++; 
        }
+       
    }
     cout<<c<<endl; 
 }
