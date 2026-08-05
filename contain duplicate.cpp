@@ -22,7 +22,7 @@ int main()
             break;
         }
      
-    
+
     }
     if(flag)
     cout<<"true"<<endl; 
