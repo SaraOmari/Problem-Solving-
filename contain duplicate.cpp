@@ -21,7 +21,7 @@ int main()
             flag=1; 
             break;
         }
-    
+
     }
     if(flag)
     cout<<"true"<<endl; 
