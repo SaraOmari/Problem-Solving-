@@ -13,7 +13,6 @@ cin>>arr[i];
 }
 int mx=0;
 int ans;
-
 for(auto x:m){
   if(x.second>mx){
       mx=x.second;
