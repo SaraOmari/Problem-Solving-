@@ -15,7 +15,7 @@ int main()
     return 0; 
     }
    }
-    
+
     int ans=abs(v[0]); 
     for(int i=1; i<n; i++){
         ans=min(ans,abs(v[i])); 
