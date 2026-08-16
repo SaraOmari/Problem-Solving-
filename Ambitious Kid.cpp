@@ -19,6 +19,6 @@ int main()
     for(int i=1; i<n; i++){
         ans=min(ans,abs(v[i])); 
     }
-        cout<<ans<<endl; 
+     cout<<ans<<endl; 
     return 0;
 }
