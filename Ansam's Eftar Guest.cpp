@@ -23,6 +23,6 @@ for(int i=0; i<n; i++){
 }
 
 cout<<ind<<" "<<c-ans<<endl; 
-    
+
     return 0;
 }
