@@ -22,6 +22,5 @@ for(int i=0; i<n; i++){
  break; 
 }
 cout<<ind<<" "<<c-ans<<endl; 
-
     return 0;
 }
