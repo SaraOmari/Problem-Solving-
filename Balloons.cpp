@@ -16,6 +16,6 @@ int main()
       }
       cout<<n-c<<endl; 
     }
-    
+
     return 0;
 }
