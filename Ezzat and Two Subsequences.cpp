@@ -24,5 +24,6 @@ while(t--){
      cout<<fixed << setprecision(9)<<avg<<endl;
 }
 
+
     return 0;
 }
