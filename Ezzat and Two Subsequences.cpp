@@ -23,6 +23,6 @@ while(t--){
      avg+=arr1[0]; 
      cout<<fixed << setprecision(9)<<avg<<endl;
 }
-    
+
     return 0;
 }
