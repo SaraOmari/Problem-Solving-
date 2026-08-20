@@ -10,7 +10,7 @@ cin>>t;
 while(t--){
     int n; cin>>n; 
    long long  arr[n],arr1[1],arr2[n-1]; 
-  
+
     for(int i=0; i<n; i++)
     cin>>arr[i];
      
