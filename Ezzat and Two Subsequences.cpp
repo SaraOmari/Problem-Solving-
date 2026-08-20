@@ -13,7 +13,7 @@ while(t--){
 
     for(int i=0; i<n; i++)
     cin>>arr[i];
-    
+
      sort(arr,arr+n,greater<int>()); 
      arr1[0]=arr[0]; 
      double avg=0; 
