@@ -17,6 +17,6 @@ while(t--){
   cout<<v[0]<<endl; 
 
 }
-    
+
 return 0;
 }
