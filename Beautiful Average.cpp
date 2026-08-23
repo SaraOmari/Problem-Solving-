@@ -16,7 +16,7 @@ while(t--){
   sort(v.rbegin(),v.rend()); 
   cout<<v[0]<<endl; 
 
-    
+
 }
     
 return 0;
