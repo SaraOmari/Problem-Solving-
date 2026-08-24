@@ -7,7 +7,7 @@ int t;
 cin>>t; 
 while(t--){
     int a,b,c; 
-cin>>a>>b>>c; 
+ cin>>a>>b>>c; 
    if (a==b||a==c||b==c)
    cout<<0<<endl; 
    else
