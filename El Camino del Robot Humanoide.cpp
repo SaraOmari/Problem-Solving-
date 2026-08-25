@@ -23,5 +23,4 @@ cout<<"Derecha\n";
 else
 cout<<"Linea Recta\n"; 
     return 0;
-
 }
