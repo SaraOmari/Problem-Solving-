@@ -12,7 +12,7 @@ while(t--){
     else if(n%3==1)
     cout<<2<<endl; 
     else
-    cout<<1<<endl; 
+    cout<<1<<endl;
 }
 return 0;
 }
