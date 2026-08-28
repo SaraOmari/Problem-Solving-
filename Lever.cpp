@@ -21,6 +21,7 @@ while(t--){
     cout<<s<<endl;
 }
 
+
     
     return 0;
 }
