@@ -9,6 +9,5 @@ int main()
   else
   cout<<"W\n"; 
 
-
     return 0;
 }
