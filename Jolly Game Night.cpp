@@ -8,6 +8,7 @@ int main()
   cout<<"P\n"; 
   else
   cout<<"W\n"; 
+
   
     return 0;
 }
