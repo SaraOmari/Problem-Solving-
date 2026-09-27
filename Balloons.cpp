@@ -15,7 +15,7 @@ int main()
           if(arr[i]==0)
           c++; 
       }
-    
+
       cout<<n-c<<endl; 
     }
     return 0;
