@@ -6,7 +6,8 @@ int main()
 {
 int t; cin>>t; 
 while(t--){
-    int n; cin>>n; 
+    int n; 
+    cin>>n; 
    int aa[3]; 
    for(int i=0; i<3; i++)
     cin>>aa[i]; 
